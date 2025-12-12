@@ -1,0 +1,22 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+
+# Generated results
+results.txt
+
+# Build directories
+build/
+*.obj
+
+# IDE files
+.vs/
+.vscode/
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
